@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "E:\\Projeler\\C#\\NTierLibraryHomework\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{809850C5-5B21-4CF5-B2EE-371EBEAF1FE2}|Project.WebApi\\Project.WebApi.csproj|e:\\projeler\\c#\\ntierlibraryhomework\\project.webapi\\models\\requestmodels\\booktags\\createbooktagrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809850C5-5B21-4CF5-B2EE-371EBEAF1FE2}|Project.WebApi\\Project.WebApi.csproj|solutionrelative:project.webapi\\models\\requestmodels\\booktags\\createbooktagrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809850C5-5B21-4CF5-B2EE-371EBEAF1FE2}|Project.WebApi\\Project.WebApi.csproj|e:\\projeler\\c#\\ntierlibraryhomework\\project.webapi\\models\\requestmodels\\tags\\createtagrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809850C5-5B21-4CF5-B2EE-371EBEAF1FE2}|Project.WebApi\\Project.WebApi.csproj|solutionrelative:project.webapi\\models\\requestmodels\\tags\\createtagrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809850C5-5B21-4CF5-B2EE-371EBEAF1FE2}|Project.WebApi\\Project.WebApi.csproj|e:\\projeler\\c#\\ntierlibraryhomework\\project.webapi\\models\\requestmodels\\books\\createbookrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809850C5-5B21-4CF5-B2EE-371EBEAF1FE2}|Project.WebApi\\Project.WebApi.csproj|solutionrelative:project.webapi\\models\\requestmodels\\books\\createbookrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809850C5-5B21-4CF5-B2EE-371EBEAF1FE2}|Project.WebApi\\Project.WebApi.csproj|e:\\projeler\\c#\\ntierlibraryhomework\\project.webapi\\models\\requestmodels\\categories\\createcategoryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809850C5-5B21-4CF5-B2EE-371EBEAF1FE2}|Project.WebApi\\Project.WebApi.csproj|solutionrelative:project.webapi\\models\\requestmodels\\categories\\createcategoryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{809850C5-5B21-4CF5-B2EE-371EBEAF1FE2}|Project.WebApi\\Project.WebApi.csproj|e:\\projeler\\c#\\ntierlibraryhomework\\project.webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{809850C5-5B21-4CF5-B2EE-371EBEAF1FE2}|Project.WebApi\\Project.WebApi.csproj|solutionrelative:project.webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -75,32 +91,16 @@
       "RelativeMoniker": "D:0:0:{809850C5-5B21-4CF5-B2EE-371EBEAF1FE2}|Project.WebApi\\Project.WebApi.csproj|solutionrelative:project.webapi\\models\\responsemodels\\tags\\tagresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{809850C5-5B21-4CF5-B2EE-371EBEAF1FE2}|Project.WebApi\\Project.WebApi.csproj|e:\\projeler\\c#\\ntierlibraryhomework\\project.webapi\\models\\requestmodels\\tags\\createtagrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{809850C5-5B21-4CF5-B2EE-371EBEAF1FE2}|Project.WebApi\\Project.WebApi.csproj|solutionrelative:project.webapi\\models\\requestmodels\\tags\\createtagrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{809850C5-5B21-4CF5-B2EE-371EBEAF1FE2}|Project.WebApi\\Project.WebApi.csproj|e:\\projeler\\c#\\ntierlibraryhomework\\project.webapi\\models\\responsemodels\\categories\\categoryresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{809850C5-5B21-4CF5-B2EE-371EBEAF1FE2}|Project.WebApi\\Project.WebApi.csproj|solutionrelative:project.webapi\\models\\responsemodels\\categories\\categoryresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{809850C5-5B21-4CF5-B2EE-371EBEAF1FE2}|Project.WebApi\\Project.WebApi.csproj|e:\\projeler\\c#\\ntierlibraryhomework\\project.webapi\\models\\requestmodels\\categories\\createcategoryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{809850C5-5B21-4CF5-B2EE-371EBEAF1FE2}|Project.WebApi\\Project.WebApi.csproj|solutionrelative:project.webapi\\models\\requestmodels\\categories\\createcategoryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{809850C5-5B21-4CF5-B2EE-371EBEAF1FE2}|Project.WebApi\\Project.WebApi.csproj|e:\\projeler\\c#\\ntierlibraryhomework\\project.webapi\\models\\responsemodels\\booktags\\booktagresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{809850C5-5B21-4CF5-B2EE-371EBEAF1FE2}|Project.WebApi\\Project.WebApi.csproj|solutionrelative:project.webapi\\models\\responsemodels\\booktags\\booktagresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{809850C5-5B21-4CF5-B2EE-371EBEAF1FE2}|Project.WebApi\\Project.WebApi.csproj|e:\\projeler\\c#\\ntierlibraryhomework\\project.webapi\\models\\requestmodels\\booktags\\createbooktagrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{809850C5-5B21-4CF5-B2EE-371EBEAF1FE2}|Project.WebApi\\Project.WebApi.csproj|solutionrelative:project.webapi\\models\\requestmodels\\booktags\\createbooktagrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{809850C5-5B21-4CF5-B2EE-371EBEAF1FE2}|Project.WebApi\\Project.WebApi.csproj|e:\\projeler\\c#\\ntierlibraryhomework\\project.webapi\\models\\requestmodels\\booktags\\updatebooktagrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{809850C5-5B21-4CF5-B2EE-371EBEAF1FE2}|Project.WebApi\\Project.WebApi.csproj|solutionrelative:project.webapi\\models\\requestmodels\\booktags\\updatebooktagrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{809850C5-5B21-4CF5-B2EE-371EBEAF1FE2}|Project.WebApi\\Project.WebApi.csproj|e:\\projeler\\c#\\ntierlibraryhomework\\project.webapi\\models\\requestmodels\\books\\createbookrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{809850C5-5B21-4CF5-B2EE-371EBEAF1FE2}|Project.WebApi\\Project.WebApi.csproj|solutionrelative:project.webapi\\models\\requestmodels\\books\\createbookrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{809850C5-5B21-4CF5-B2EE-371EBEAF1FE2}|Project.WebApi\\Project.WebApi.csproj|e:\\projeler\\c#\\ntierlibraryhomework\\project.webapi\\models\\responsemodels\\authors\\authorresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -306,11 +306,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "TagController.cs",
               "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Controllers\\TagController.cs",
               "RelativeDocumentMoniker": "Project.WebApi\\Controllers\\TagController.cs",
@@ -324,19 +324,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Project.WebApi\\Controllers\\CategoryController.cs",
-              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Project.WebApi\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T17:17:17.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "BookController.cs",
               "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "Project.WebApi\\Controllers\\BookController.cs",
@@ -349,59 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "VmMapperResolver.cs",
-              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\MapperResolvers\\VmMapperResolver.cs",
-              "RelativeDocumentMoniker": "Project.WebApi\\MapperResolvers\\VmMapperResolver.cs",
-              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\MapperResolvers\\VmMapperResolver.cs",
-              "RelativeToolTip": "Project.WebApi\\MapperResolvers\\VmMapperResolver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T17:10:21.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "VmMappingProfile.cs",
-              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\MappingProfiles\\VmMappingProfile.cs",
-              "RelativeDocumentMoniker": "Project.WebApi\\MappingProfiles\\VmMappingProfile.cs",
-              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\MappingProfiles\\VmMappingProfile.cs",
-              "RelativeToolTip": "Project.WebApi\\MappingProfiles\\VmMappingProfile.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCAAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T17:07:38.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20251203165725_MyMigration.cs",
-              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.DAL\\Migrations\\20251203165725_MyMigration.cs",
-              "RelativeDocumentMoniker": "Project.DAL\\Migrations\\20251203165725_MyMigration.cs",
-              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.DAL\\Migrations\\20251203165725_MyMigration.cs",
-              "RelativeToolTip": "Project.DAL\\Migrations\\20251203165725_MyMigration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T16:57:25.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "Project.WebApi\\appsettings.json",
-              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\appsettings.json",
-              "RelativeToolTip": "Project.WebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-03T16:55:24.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "AuthorController.cs",
               "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Controllers\\AuthorController.cs",
               "RelativeDocumentMoniker": "Project.WebApi\\Controllers\\AuthorController.cs",
@@ -415,19 +350,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "Project.WebApi\\Program.cs",
-              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Program.cs",
-              "RelativeToolTip": "Project.WebApi\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBUAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T16:42:18.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "BookTag.cs",
               "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.Entities\\Models\\BookTag.cs",
               "RelativeDocumentMoniker": "Project.Entities\\Models\\BookTag.cs",
@@ -440,137 +362,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BookResponseModel.cs",
-              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\ResponseModels\\Books\\BookResponseModel.cs",
-              "RelativeDocumentMoniker": "Project.WebApi\\Models\\ResponseModels\\Books\\BookResponseModel.cs",
-              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\ResponseModels\\Books\\BookResponseModel.cs",
-              "RelativeToolTip": "Project.WebApi\\Models\\ResponseModels\\Books\\BookResponseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CreateBookRequestModel.cs",
+              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\RequestModels\\Books\\CreateBookRequestModel.cs",
+              "RelativeDocumentMoniker": "Project.WebApi\\Models\\RequestModels\\Books\\CreateBookRequestModel.cs",
+              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\RequestModels\\Books\\CreateBookRequestModel.cs",
+              "RelativeToolTip": "Project.WebApi\\Models\\RequestModels\\Books\\CreateBookRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T16:40:06.105Z",
+              "WhenOpened": "2025-12-03T16:36:55.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ManagerResolver.cs",
-              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.BLL\\DependencyResolvers\\ManagerResolver.cs",
-              "RelativeDocumentMoniker": "Project.BLL\\DependencyResolvers\\ManagerResolver.cs",
-              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.BLL\\DependencyResolvers\\ManagerResolver.cs",
-              "RelativeToolTip": "Project.BLL\\DependencyResolvers\\ManagerResolver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T16:29:34.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DTOMapperResolver.cs",
-              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.BLL\\DependencyResolvers\\DTOMapperResolver.cs",
-              "RelativeDocumentMoniker": "Project.BLL\\DependencyResolvers\\DTOMapperResolver.cs",
-              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.BLL\\DependencyResolvers\\DTOMapperResolver.cs",
-              "RelativeToolTip": "Project.BLL\\DependencyResolvers\\DTOMapperResolver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T15:32:25.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MyContext.cs",
-              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.DAL\\ContextClasses\\MyContext.cs",
-              "RelativeDocumentMoniker": "Project.DAL\\ContextClasses\\MyContext.cs",
-              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.DAL\\ContextClasses\\MyContext.cs",
-              "RelativeToolTip": "Project.DAL\\ContextClasses\\MyContext.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAswCAAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T15:08:07.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreateAuthorRequestModel.cs",
-              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\RequestModels\\Authors\\CreateAuthorRequestModel.cs",
-              "RelativeDocumentMoniker": "Project.WebApi\\Models\\RequestModels\\Authors\\CreateAuthorRequestModel.cs",
-              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\RequestModels\\Authors\\CreateAuthorRequestModel.cs",
-              "RelativeToolTip": "Project.WebApi\\Models\\RequestModels\\Authors\\CreateAuthorRequestModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T16:36:00.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "TagResponseModel.cs",
-              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\ResponseModels\\Tags\\TagResponseModel.cs",
-              "RelativeDocumentMoniker": "Project.WebApi\\Models\\ResponseModels\\Tags\\TagResponseModel.cs",
-              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\ResponseModels\\Tags\\TagResponseModel.cs",
-              "RelativeToolTip": "Project.WebApi\\Models\\ResponseModels\\Tags\\TagResponseModel.cs",
+              "DocumentIndex": 3,
+              "Title": "CreateCategoryRequestModel.cs",
+              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\RequestModels\\Categories\\CreateCategoryRequestModel.cs",
+              "RelativeDocumentMoniker": "Project.WebApi\\Models\\RequestModels\\Categories\\CreateCategoryRequestModel.cs",
+              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\RequestModels\\Categories\\CreateCategoryRequestModel.cs",
+              "RelativeToolTip": "Project.WebApi\\Models\\RequestModels\\Categories\\CreateCategoryRequestModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T16:41:36.977Z",
+              "WhenOpened": "2025-12-03T16:38:21.899Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CategoryResponseModel.cs",
-              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\ResponseModels\\Categories\\CategoryResponseModel.cs",
-              "RelativeDocumentMoniker": "Project.WebApi\\Models\\ResponseModels\\Categories\\CategoryResponseModel.cs",
-              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\ResponseModels\\Categories\\CategoryResponseModel.cs",
-              "RelativeToolTip": "Project.WebApi\\Models\\ResponseModels\\Categories\\CategoryResponseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CreateTagRequestModel.cs",
+              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\RequestModels\\Tags\\CreateTagRequestModel.cs",
+              "RelativeDocumentMoniker": "Project.WebApi\\Models\\RequestModels\\Tags\\CreateTagRequestModel.cs",
+              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\RequestModels\\Tags\\CreateTagRequestModel.cs",
+              "RelativeToolTip": "Project.WebApi\\Models\\RequestModels\\Tags\\CreateTagRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T16:41:12.896Z",
+              "WhenOpened": "2025-12-03T16:39:00.072Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "BookTagResponseModel.cs",
-              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\ResponseModels\\BookTags\\BookTagResponseModel.cs",
-              "RelativeDocumentMoniker": "Project.WebApi\\Models\\ResponseModels\\BookTags\\BookTagResponseModel.cs",
-              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\ResponseModels\\BookTags\\BookTagResponseModel.cs",
-              "RelativeToolTip": "Project.WebApi\\Models\\ResponseModels\\BookTags\\BookTagResponseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T16:40:27.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DbContextResolver.cs",
-              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.BLL\\DependencyResolvers\\DbContextResolver.cs",
-              "RelativeDocumentMoniker": "Project.BLL\\DependencyResolvers\\DbContextResolver.cs",
-              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.BLL\\DependencyResolvers\\DbContextResolver.cs",
-              "RelativeToolTip": "Project.BLL\\DependencyResolvers\\DbContextResolver.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T15:29:27.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "RepositoryResolver.cs",
-              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.BLL\\DependencyResolvers\\RepositoryResolver.cs",
-              "RelativeDocumentMoniker": "Project.BLL\\DependencyResolvers\\RepositoryResolver.cs",
-              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.BLL\\DependencyResolvers\\RepositoryResolver.cs",
-              "RelativeToolTip": "Project.BLL\\DependencyResolvers\\RepositoryResolver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T16:06:21.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 0,
               "Title": "CreateBookTagRequestModel.cs",
               "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\RequestModels\\BookTags\\CreateBookTagRequestModel.cs",
               "RelativeDocumentMoniker": "Project.WebApi\\Models\\RequestModels\\BookTags\\CreateBookTagRequestModel.cs",
@@ -583,7 +414,215 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Project.WebApi\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Project.WebApi\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:17:17.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Project.WebApi\\Program.cs",
+              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Program.cs",
+              "RelativeToolTip": "Project.WebApi\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T16:42:18.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VmMapperResolver.cs",
+              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\MapperResolvers\\VmMapperResolver.cs",
+              "RelativeDocumentMoniker": "Project.WebApi\\MapperResolvers\\VmMapperResolver.cs",
+              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\MapperResolvers\\VmMapperResolver.cs",
+              "RelativeToolTip": "Project.WebApi\\MapperResolvers\\VmMapperResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:10:21.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VmMappingProfile.cs",
+              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\MappingProfiles\\VmMappingProfile.cs",
+              "RelativeDocumentMoniker": "Project.WebApi\\MappingProfiles\\VmMappingProfile.cs",
+              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\MappingProfiles\\VmMappingProfile.cs",
+              "RelativeToolTip": "Project.WebApi\\MappingProfiles\\VmMappingProfile.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:07:38.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Project.WebApi\\appsettings.json",
+              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\appsettings.json",
+              "RelativeToolTip": "Project.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-03T16:55:24.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20251203165725_MyMigration.cs",
+              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.DAL\\Migrations\\20251203165725_MyMigration.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Migrations\\20251203165725_MyMigration.cs",
+              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.DAL\\Migrations\\20251203165725_MyMigration.cs",
+              "RelativeToolTip": "Project.DAL\\Migrations\\20251203165725_MyMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T16:57:25.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookResponseModel.cs",
+              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\ResponseModels\\Books\\BookResponseModel.cs",
+              "RelativeDocumentMoniker": "Project.WebApi\\Models\\ResponseModels\\Books\\BookResponseModel.cs",
+              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\ResponseModels\\Books\\BookResponseModel.cs",
+              "RelativeToolTip": "Project.WebApi\\Models\\ResponseModels\\Books\\BookResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T16:40:06.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ManagerResolver.cs",
+              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.BLL\\DependencyResolvers\\ManagerResolver.cs",
+              "RelativeDocumentMoniker": "Project.BLL\\DependencyResolvers\\ManagerResolver.cs",
+              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.BLL\\DependencyResolvers\\ManagerResolver.cs",
+              "RelativeToolTip": "Project.BLL\\DependencyResolvers\\ManagerResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T16:29:34.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DTOMapperResolver.cs",
+              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.BLL\\DependencyResolvers\\DTOMapperResolver.cs",
+              "RelativeDocumentMoniker": "Project.BLL\\DependencyResolvers\\DTOMapperResolver.cs",
+              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.BLL\\DependencyResolvers\\DTOMapperResolver.cs",
+              "RelativeToolTip": "Project.BLL\\DependencyResolvers\\DTOMapperResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T15:32:25.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.DAL\\ContextClasses\\MyContext.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\ContextClasses\\MyContext.cs",
+              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.DAL\\ContextClasses\\MyContext.cs",
+              "RelativeToolTip": "Project.DAL\\ContextClasses\\MyContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswCAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T15:08:07.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateAuthorRequestModel.cs",
+              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\RequestModels\\Authors\\CreateAuthorRequestModel.cs",
+              "RelativeDocumentMoniker": "Project.WebApi\\Models\\RequestModels\\Authors\\CreateAuthorRequestModel.cs",
+              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\RequestModels\\Authors\\CreateAuthorRequestModel.cs",
+              "RelativeToolTip": "Project.WebApi\\Models\\RequestModels\\Authors\\CreateAuthorRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T16:36:00.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TagResponseModel.cs",
+              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\ResponseModels\\Tags\\TagResponseModel.cs",
+              "RelativeDocumentMoniker": "Project.WebApi\\Models\\ResponseModels\\Tags\\TagResponseModel.cs",
+              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\ResponseModels\\Tags\\TagResponseModel.cs",
+              "RelativeToolTip": "Project.WebApi\\Models\\ResponseModels\\Tags\\TagResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T16:41:36.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryResponseModel.cs",
+              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\ResponseModels\\Categories\\CategoryResponseModel.cs",
+              "RelativeDocumentMoniker": "Project.WebApi\\Models\\ResponseModels\\Categories\\CategoryResponseModel.cs",
+              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\ResponseModels\\Categories\\CategoryResponseModel.cs",
+              "RelativeToolTip": "Project.WebApi\\Models\\ResponseModels\\Categories\\CategoryResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T16:41:12.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 23,
+              "Title": "BookTagResponseModel.cs",
+              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\ResponseModels\\BookTags\\BookTagResponseModel.cs",
+              "RelativeDocumentMoniker": "Project.WebApi\\Models\\ResponseModels\\BookTags\\BookTagResponseModel.cs",
+              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\ResponseModels\\BookTags\\BookTagResponseModel.cs",
+              "RelativeToolTip": "Project.WebApi\\Models\\ResponseModels\\BookTags\\BookTagResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T16:40:27.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DbContextResolver.cs",
+              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.BLL\\DependencyResolvers\\DbContextResolver.cs",
+              "RelativeDocumentMoniker": "Project.BLL\\DependencyResolvers\\DbContextResolver.cs",
+              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.BLL\\DependencyResolvers\\DbContextResolver.cs",
+              "RelativeToolTip": "Project.BLL\\DependencyResolvers\\DbContextResolver.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T15:29:27.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RepositoryResolver.cs",
+              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.BLL\\DependencyResolvers\\RepositoryResolver.cs",
+              "RelativeDocumentMoniker": "Project.BLL\\DependencyResolvers\\RepositoryResolver.cs",
+              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.BLL\\DependencyResolvers\\RepositoryResolver.cs",
+              "RelativeToolTip": "Project.BLL\\DependencyResolvers\\RepositoryResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T16:06:21.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "UpdateBookTagRequestModel.cs",
               "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\RequestModels\\BookTags\\UpdateBookTagRequestModel.cs",
               "RelativeDocumentMoniker": "Project.WebApi\\Models\\RequestModels\\BookTags\\UpdateBookTagRequestModel.cs",
@@ -605,32 +644,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T16:39:39.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CreateTagRequestModel.cs",
-              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\RequestModels\\Tags\\CreateTagRequestModel.cs",
-              "RelativeDocumentMoniker": "Project.WebApi\\Models\\RequestModels\\Tags\\CreateTagRequestModel.cs",
-              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\RequestModels\\Tags\\CreateTagRequestModel.cs",
-              "RelativeToolTip": "Project.WebApi\\Models\\RequestModels\\Tags\\CreateTagRequestModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T16:39:00.072Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CreateCategoryRequestModel.cs",
-              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\RequestModels\\Categories\\CreateCategoryRequestModel.cs",
-              "RelativeDocumentMoniker": "Project.WebApi\\Models\\RequestModels\\Categories\\CreateCategoryRequestModel.cs",
-              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\RequestModels\\Categories\\CreateCategoryRequestModel.cs",
-              "RelativeToolTip": "Project.WebApi\\Models\\RequestModels\\Categories\\CreateCategoryRequestModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T16:38:21.899Z",
               "EditorCaption": ""
             },
             {
@@ -657,19 +670,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T16:38:26.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "CreateBookRequestModel.cs",
-              "DocumentMoniker": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\RequestModels\\Books\\CreateBookRequestModel.cs",
-              "RelativeDocumentMoniker": "Project.WebApi\\Models\\RequestModels\\Books\\CreateBookRequestModel.cs",
-              "ToolTip": "E:\\Projeler\\C#\\NTierLibraryHomework\\Project.WebApi\\Models\\RequestModels\\Books\\CreateBookRequestModel.cs",
-              "RelativeToolTip": "Project.WebApi\\Models\\RequestModels\\Books\\CreateBookRequestModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T16:36:55.755Z",
               "EditorCaption": ""
             },
             {
