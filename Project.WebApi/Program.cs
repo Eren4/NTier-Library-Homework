@@ -20,6 +20,7 @@ namespace Project.WebApi
             builder.Services.AddManagerService();
             builder.Services.AddDTOMapperService();
             builder.Services.AddVmMapperService();
+            builder.Services.AddCors();
 
             var app = builder.Build();
 
@@ -31,8 +32,11 @@ namespace Project.WebApi
 
             app.UseHttpsRedirection();
 
-            app.UseAuthorization();
+            app.UseCors(x => x.AllowAnyHeader().
+                               AllowAnyMethod().
+                               WithOrigins("http://localhost:4200"));
 
+            app.UseAuthorization();
 
             app.MapControllers();
 
